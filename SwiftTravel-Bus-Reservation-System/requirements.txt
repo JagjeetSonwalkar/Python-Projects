@@ -1,0 +1,5 @@
+# No external dependencies.
+# This project uses only the Python standard library:
+#   csv, os, datetime
+#
+# Requires Python 3.7+ (f-strings and standard typing used throughout).
